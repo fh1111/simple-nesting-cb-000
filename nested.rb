@@ -129,4 +129,5 @@ def adding_to_dennis
 
 end
 
-alan_kay_is_known_for
+
+dennis_ritchies_language
