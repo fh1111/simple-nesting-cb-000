@@ -16,7 +16,7 @@ def hopper
         }
      }
 
-	programmer_hash[":grace_hopper"]	 
+	puts programmer_hash.keys 
 
 end
 
