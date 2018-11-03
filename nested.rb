@@ -16,7 +16,7 @@ def hopper
         }
      }
 
-	puts programmer_hash.keys[0]
+	programmer_hash.keys[0]
 
 end
 
